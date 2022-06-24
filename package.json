@@ -5,7 +5,7 @@
   "homepage": "https://MateuszBachor.github.io/goit-js-8/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-8/"
   },
   "repository": {
     "type": "git",
